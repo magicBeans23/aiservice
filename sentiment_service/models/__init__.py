@@ -1,0 +1,1 @@
+from .mail_message import Mail

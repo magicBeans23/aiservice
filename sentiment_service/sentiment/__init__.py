@@ -1,0 +1,1 @@
+from .flair_sentiment import cal_sentiment
